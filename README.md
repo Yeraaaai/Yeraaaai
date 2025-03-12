@@ -6,7 +6,6 @@
 <hr/>
 <h4 align="center">Soy un desarrollador de aplicaciones web con experiencia en la creación de soluciones modernas, eficientes y escalables. Me especializo en tecnologías frontend y backend, enfocándome en la optimización del rendimiento, la experiencia del usuario y el desarrollo ágil. Siempre busco aprender nuevas herramientas y mejorar mis habilidades para ofrecer productos innovadores y de alta calidad. 🚀</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Yeraaaai" /> </p>
 
 
 ## 🛠️ My Skills
@@ -31,9 +30,6 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
