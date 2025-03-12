@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">Soy un desarrollador de aplicaciones web con experiencia en la creación de soluciones modernas, eficientes y escalables. Me especializo en tecnologías frontend y backend, enfocándome en la optimización del rendimiento, la experiencia del usuario y el desarrollo ágil. Siempre busco aprender nuevas herramientas y mejorar mis habilidades para ofrecer productos innovadores y de alta calidad. 🚀</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Yeraaaai" /> </p>
 
 
 ## 🛠️ My Skills
